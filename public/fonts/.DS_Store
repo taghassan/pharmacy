@@ -1,0 +1,82 @@
+or2" index="6" value="0.000000, 0.250000" />
+    <param id="layerUV1" type="vector2" index="6" value="1.000000, 0.250000" />
+    <param id="layerUV2" type="vector2" index="6" value="0.000000, 0.500000" />
+    <param id="layerUV3" type="vector2" index="6" value="1.000000, 0.500000" />
+    <param id="layerRotation" type="angle" index="6" value="0.000000" />
+    <param id="layerAutoRotation" type="uint" index="6" value="0" />
+    <param id="layerPosition" type="float" index="7" value="-0.850000" />
+    <param id="layerScale" type="float" index="7" value="0.500000" />
+    <param id="layerColor" type="vector4" index="7" value="0.105882, 0.105882, 0.105882, 1.000000" />
+    <param id="layerUV0" type="vector2" index="7" value="0.500000, 0.000000" />
+    <param id="layerUV1" type="vector2" index="7" value="1.000000, 0.000000" />
+    <param id="layerUV2" type="vector2" index="7" value="0.500000, 0.125000" />
+    <param id="layerUV3" type="vector2" index="7" value="1.000000, 0.125000" />
+    <param id="layerRotation" type="angle" index="7" value="0.000000" />
+    <param id="layerAutoRotation" type="uint" index="7" value="0" />
+    <param id="layerPosition" type="float" index="8" value="-1.000000" />
+    <param id="layerScale" type="float" index="8" value="0.500000" />
+    <param id="layerColor" type="vector4" index="8" value="0.196078, 0.196078, 0.196078, 1.000000" />
+    <param id="layerUV0" type="vector2" index="8" value="0.000000, 0.250000" />
+    <param id="layerUV1" type="vector2" index="8" value="1.000000, 0.250000" />
+    <param id="layerUV2" type="vector2" index="8" value="0.000000, 0.500000" />
+    <param id="layerUV3" type="vector2" index="8" value="1.000000, 0.500000" />
+    <param id="layerRotation" type="angle" index="8" value="0.000000" />
+    <param id="layerAutoRotation" type="uint" index="8" value="0" />
+    <param id="layerPosition" type="float" index="9" value="-1.100000" />
+    <param id="layerScale" type="float" index="9" value="0.500000" />
+    <param id="layerColor" type="vector4" index="9" value="0.352941, 0.352941, 0.352941, 1.000000" />
+    <param id="layerUV0" type="vector2" index="9" value="0.500000, 0.000000" />
+    <param id="layerUV1" type="vector2" index="9" value="1.000000, 0.000000" />
+    <param id="layerUV2" type="vector2" index="9" value="0.500000, 0.125000" />
+    <param id="layerUV3" type="vector2" index="9" value="1.000000, 0.125000" />
+    <param id="layerRotation" type="angle" index="9" value="0.000000" />
+    <param id="layerAutoRotation" type="uint" index="9" value="0" />
+    <param id="layerPosition" type="float" index="10" value="-0.850000" />
+    <param id="layerScale" type="float" index="10" value="2.500000" />
+    <param id="layerColor" type="vector4" index="10" value="0.541176, 3.000000, 1.524706, 1.000000" />
+    <param id="layerUV0" type="vector2" index="10" value="0.500000, 0.000000" />
+    <param id="layerUV1" type="vector2" index="10" value="1.000000, 0.000000" />
+    <param id="layerUV2" type="vector2" index="10" value="0.500000, 0.125000" />
+    <param id="layerUV3" type="vector2" index="10" value="1.000000, 0.125000" />
+    <param id="layerRotation" type="angle" index="10" value="0.000000" />
+    <param id="layerAutoRotation" type="uint" index="10" value="0" />
+    <param id="layerPosition" type="float" index="11" value="-1.000000" />
+    <param id="layerScale" type="float" index="11" value="1.750000" />
+    <param id="layerColor" type="vector4" index="11" value="0.843137, 3.190543, 5.000000, 3.000000" />
+    <param id="layerUV0" type="vector2" index="11" value="0.000000, 0.125000" />
+    <param id="layerUV1" type="vector2" index="11" value="0.500000, 0.125000" />
+    <param id="layerUV2" type="vector2" index="11" value="0.000000, 0.000000" />
+    <param id="layerUV3" type="vector2" index="11" value="0.500000, 0.000000" />
+    <param id="layerRotation" type="angle" index="11" value="0.000000" />
+    <param id="layerAutoRotation" type="uint" index="11" value="0" />
+    <param id="layerPosition" type="float" index="12" value="-1.250000" />
+    <param id="layerScale" type="float" index="12" value="1.000000" />
+    <param id="layerColor" type="vector4" index="12" value="0.000000, 9.882350, 20.000000, 1.000000" />
+    <param id="layerUV0" type="vector2" index="12" value="0.000000, 0.500000" />
+    <param id="layerUV1" type="vector2" index="12" value="1.000000, 0.500000" />
+    <param id="layerUV2" type="vector2" index="12" value="0.000000, 0.750000" />
+    <param id="layerUV3" type="vector2" index="12" value="1.000000, 0.750000" />
+    <param id="layerRotation" type="angle" index="12" value="0.000000" />
+    <param id="layerAutoRotation" type="uint" index="12" value="0" />
+    <param id="layerPosition" type="float" index="13" value="-1.500000" />
+    <param id="layerScale" type="float" index="13" value="1.000000" />
+    <param id="layerColor" type="vector4" index="13" value="0.000000, 0.352941, 3.000000, 1.000000" />
+    <param id="layerUV0" type="vector2" index="13" value="0.500000, 0.125000" />
+    <param id="layerUV1" type="vector2" index="13" value="1.000000, 0.125000" />
+    <param id="layerUV2" type="vector2" index="13" value="0.500000, 0.250000" />
+    <param id="layerUV3" type="vector2" index="13" value="1.000000, 0.250000" />
+    <param id="layerRotation" type="angle" index="13" value="0.000000" />
+    <param id="layerAutoRotation" type="uint" index="13" value="0" />
+  </setting>
+  <setting type="Vignetting" index="0">
+    <param id="texturePath" type="path" value="model/effect/filter/filter.dds" />
+    <param id="alpha" type="uint" value="0x80" />
+  </setting>
+  <create type="LightBillboard" setting="0" floor="upper" dir="back" />
+  <create type="LightBillboard" setting="1" floor="upper" dir="front" />
+  <create type="LightBillboard" setting="2" floor="upper" dir="left" />
+  <create type="LightBillboard" setting="3" floor="upper" dir="right" />
+  <create type="LensFlare" setting="0" />
+  <create type="LensFlare" setting="1" />
+  <create type="LensFlare" setting="2" />
+  <create type="Vignetting" setti
